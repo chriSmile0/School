@@ -1,0 +1,3 @@
+[submodule "AssociationWebsite"]
+	path = AssociationWebsite
+	url = https://github.com/chris0c1/AssociationWebsite
