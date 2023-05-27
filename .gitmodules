@@ -1,3 +1,27 @@
 [submodule "AssociationWebsite"]
 	path = AssociationWebsite
 	url = https://github.com/chris0c1/AssociationWebsite
+[submodule "NamcoPacman"]
+	path = NamcoPacman
+	url = https://github.com/chris0c1/NamcoPacman
+[submodule "ColorThemeManager"]
+	path = ColorThemeManager
+	url = https://github.com/chris0c1/ColorThemeManager
+[submodule "GameCerbere"]
+	path = GameCerbere
+	url = https://github.com/chris0c1/GameCerbere
+[submodule "Sniffer"]
+	path = Sniffer
+	url = https://github.com/chris0c1/Sniffer
+[submodule "SosCompiler"]
+	path = SosCompiler
+	url = https://github.com/chris0c1/SosCompiler
+[submodule "RandomDrawColor"]
+	path = RandomDrawColor
+	url = https://github.com/chris0c1/RandomDrawColor
+[submodule "GUICalculator"]
+	path = GUICalculator
+	url = https://github.com/chris0c1/GUICalculator
+[submodule "Round-RobinAdressResolution"]
+	path = Round-RobinAdressResolution
+	url = https://github.com/chris0c1/Round-RobinAdressResolution
