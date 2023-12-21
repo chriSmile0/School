@@ -25,3 +25,15 @@
 [submodule "Round-RobinAdressResolution"]
 	path = Round-RobinAdressResolution
 	url = https://github.com/chris0c1/Round-RobinAdressResolution
+[submodule "AD-RDN"]
+	path = AD-RDN
+	url = https://github.com/chriSmile0/AD-RDN.git
+[submodule "Hadamard"]
+	path = Hadamard
+	url = https://github.com/chriSmile0/Hadamard
+[submodule "TCPConnection"]
+	path = TCPConnection
+	url = https://github.com/chriSmile0/TCPConnection
+[submodule "UpdateColorMips"]
+	path = UpdateColorMips
+	url = https://github.com/chriSmile0/UpdateColorMips
