@@ -37,3 +37,6 @@
 [submodule "UpdateColorMips"]
 	path = UpdateColorMips
 	url = https://github.com/chriSmile0/UpdateColorMips
+[submodule "DatabaseReplayWebsite"]
+	path = DatabaseReplayWebsite
+	url = https://github.com/chriSmile0/DatabaseReplayWebsite
