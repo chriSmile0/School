@@ -1,6 +1,13 @@
 # School
 Tout les projets de mes études.
 
+## AD-RDN 
+Un projet de L3 qui avait pour but d'évaluer des modèles 
+Compétences : 
+- Prépa de données
+- Arbre de décision et reseaux de neurones artificiels
+- Calcul de métrique + interprétation 
+
 ## AssociationWebsite
 Un projet de L2 qui avait les contraintes suivantes :   
 - Pas de framework   
@@ -15,6 +22,15 @@ Un projet d'IHM en L3 avec Qt/C++ :
 - Importation de thème   
 - Ajout de paire {source,cible} dans un thème  
 	
+## DatabaseReplayWebsite
+Schématisation et implémentation de la base de données d'un site de replay 
+- Établir le schéma UML de la base 
+- Définir le schéma relationnel 
+- Défintion de "triggers" (contraites dynamiques) 
+- Défintion de procédures 
+- Requêtes plus ou moins complexes dans le but d'extraire des informations de la base
+- Insertion de données aléatoire 
+
 ## GameCerbere
 Un projet intégrateur de L3 sur 5 mois dans une équipe de 9 membres :   
 - Refaire un jeu de plateau de façon virtuelle avec appli bureau et Web (mobile = bonus)  
@@ -40,6 +56,10 @@ Un projet de L2 en java :
 - Tout les modes d'opérations 
 - Dessiner des graphes de fonctions.
 
+## Hadamard 
+Implémentation du code de Hadamard et son simplex 
+- Implémentation 
+- Codage/Décodage
 
 ## NamcoPacman
 Un projet de M1 : 
@@ -73,3 +93,4 @@ Un projet de M1 :
 - Un compilateur en C pour compiler SoS pour Sous-Shell avec en sortie du MIPS.
 - 4 devs 
 - LEX+YACC 
+
