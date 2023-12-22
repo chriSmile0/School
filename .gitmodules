@@ -40,3 +40,6 @@
 [submodule "DatabaseReplayWebsite"]
 	path = DatabaseReplayWebsite
 	url = https://github.com/chriSmile0/DatabaseReplayWebsite
+[submodule "SVGOptimizer"]
+	path = SVGOptimizer
+	url = https://github.com/chriSmile0/SVGOptimizer
