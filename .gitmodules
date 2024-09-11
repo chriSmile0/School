@@ -43,3 +43,10 @@
 [submodule "SVGOptimizer"]
 	path = SVGOptimizer
 	url = https://github.com/chriSmile0/SVGOptimizer
+[submodule "GameOfLife"]
+	path = GameOfLife
+	url = https://github.com/chriSmile0/GameOfLife
+[submodule "ShmThreadingRestaurant"]
+	path = ShmThreadingRestaurant
+	url = https://github.com/chriSmile0/ShmThreadingRestaurant
+

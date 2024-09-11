@@ -2,16 +2,17 @@
 Tout les projets de mes études.
 
 ## AD-RDN 
-Un projet de L3 qui avait pour but d'évaluer des modèles 
+Projet de L3 | 2 dev -> 3 mois : 
 Compétences : 
 - Prépa de données
 - Arbre de décision et reseaux de neurones artificiels
 - Calcul de métrique + interprétation 
 
 ## AssociationWebsite
-Un projet de L2 qui avait les contraintes suivantes :   
-- Pas de framework   
-- Utilisation de Sqlite   
+Projet de L2 | 1 dev -> 3 mois : 
+- Contraintes  :   
+	- Sqlite/HTML/CSS/JS/PHP
+	- Pas de framework   
 - Promotion d'un évènement + réservation   
 - Présentation des membres de l'association  
 
@@ -23,7 +24,9 @@ Un projet d'IHM en L3 avec Qt/C++ :
 - Ajout de paire {source,cible} dans un thème  
 	
 ## DatabaseReplayWebsite
-Schématisation et implémentation de la base de données d'un site de replay 
+Projet de L2 | 1 dev -> 3 mois : 
+- MySql 
+- Schématisation et implémentation de la base de données d'un site de replay 
 - Établir le schéma UML de la base 
 - Définir le schéma relationnel 
 - Défintion de "triggers" (contraites dynamiques) 
@@ -32,7 +35,7 @@ Schématisation et implémentation de la base de données d'un site de replay
 - Insertion de données aléatoire 
 
 ## GameCerbere
-Un projet intégrateur de L3 sur 5 mois dans une équipe de 9 membres :   
+Projet de fin de L3 | 8 devs + cheffe de projet -> 6 mois : 
 - Refaire un jeu de plateau de façon virtuelle avec appli bureau et Web (mobile = bonus)  
 - 1 chef de projet, 8 developpeurs.  
 - Cahier des charges + GANTT  
@@ -52,32 +55,37 @@ Un projet intégrateur de L3 sur 5 mois dans une équipe de 9 membres :
   	- Crystal + Mysql
 	
 ## GUICalculator
-Un projet de L2 en java : 
+Projet de L2  | 2 devs -> 3 mois : 
 - Tout les modes d'opérations 
 - Dessiner des graphes de fonctions.
 
 ## Hadamard 
-Implémentation du code de Hadamard et son simplex 
+Projet de L3 | 1 dev -> 2 mois : 
+- C 
+- Implémentation du code de Hadamard et son simplex 
 - Implémentation 
 - Codage/Décodage
 
 ## NamcoPacman
-Un projet de M1 : 
+Projet de M1 | 1 dev -> 5 mois : 
 - C++ 11/14/17/20 
 - Le plus proche possible de la version originale 
 
 ## RandomDrawColor
-Un projet de L2 : 
+Projet de L2 | 2 devs -> 3 mois : 
+- C 
 - Prendre des images avec un fond blanc et des contours noirs 
 - Colorier de manière aléatoire des surfaces de larges étendues en fonction de ces contours 
 
 ## Round-RobinAdressResolution 
-Un projet de L3 : 
+Projet de L3, 2 devs -> 3 mois ; 
+- C 
 - Faire de la résolution d'adresse IP en saut par saut en allant d'un serveur vers un 	
 	client en passant par des serveurs intermédiaires 
 
 ## Sniffer 
-Un projet de M1 : 
+Projet de M1 | 1 dev -> 3 mois : 
+- C 
 - Un sniffer comme tcpdump ou wireshark en utilisant la librairie pcap.
 - Un mode offline et inline 
 - Capter le plus de protocoles possibles : 
@@ -89,8 +97,19 @@ Un projet de M1 :
 	- TCP : 
 		- SMTP,HTTP,FTP,Telnet
 ## SosCompiler 
-Un projet de M1 : 
-- Un compilateur en C pour compiler SoS pour Sous-Shell avec en sortie du MIPS.
-- 4 devs 
-- LEX+YACC 
+Projet de M1 | 4 dev,1 chef de projet(moi) -> 4 mois : 
+- C/LEX/YACC 
+- compiler SoS pour Sous-Shell avec en sortie du MIPS.
+
+## ShmThreadingRestaurant
+Projet de L3 | 1 dev -> 4 mois : 
+- C 
+- Utilisation de threads afin de faire de la gestion temps réel via share memory file
+Rédaction de rapports + tests professeur pour notation
+
+## GameOfLife 
+Projet de L2 | 1 dev -> 3 mois : 
+- C 
+- Refaire le jeu de la vie 
+- Enter key -> Avancée d'une génération
 
